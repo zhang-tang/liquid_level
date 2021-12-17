@@ -1,5 +1,6 @@
 {
-    "name": "Liquid_level",
+    "name": "LiquidLevel",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -10,7 +11,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "LiquidLevel.ts"
+        "LiquidLevel.ts",
+        "_locales/zh-cn/LiquidLevel-strings.json"
     ],
     "testFiles": [
         "test.ts"
